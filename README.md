@@ -1,4 +1,4 @@
 miranda
 =======
 
-patch for Miranda IM (interna name popup)
+patch for Miranda IM (internal name popup)
